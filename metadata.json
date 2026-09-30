@@ -1,0 +1,6 @@
+{
+  "name": "Dusty Details WA | Mobile Car Detailing Byford & Perth",
+  "description": "Professional mobile auto detailing in Byford and surrounding Perth suburbs. Restore your car's shine, inside and out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
